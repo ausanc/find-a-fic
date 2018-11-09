@@ -11,3 +11,6 @@ for page in range (370, 500):
       if author has 2 stories:
         yield author
 ```
+
+## Valid Authors JSON
+The list of authors with 2 stories, one of which is about Ginny and was published around 2012
